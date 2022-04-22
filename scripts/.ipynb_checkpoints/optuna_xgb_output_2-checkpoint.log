@@ -1,0 +1,28 @@
+A new study created in RDB with name: aug_2021_test_2
+Start optimization.
+start listen on 192.168.1.101:60851
+@tracker All of 4 nodes getting started
+Task exception was never retrieved
+future: <Task finished name='Task-178' coro=<Client._gather.<locals>.wait() done, defined at /home/tunguz/.local/lib/python3.8/site-packages/distributed/client.py:1999> exception=AllExit()>
+Traceback (most recent call last):
+  File "/home/tunguz/.local/lib/python3.8/site-packages/distributed/client.py", line 2004, in wait
+    raise AllExit()
+distributed.client.AllExit
+Task exception was never retrieved
+future: <Task finished name='Task-177' coro=<Client._gather.<locals>.wait() done, defined at /home/tunguz/.local/lib/python3.8/site-packages/distributed/client.py:1999> exception=AllExit()>
+Traceback (most recent call last):
+  File "/home/tunguz/.local/lib/python3.8/site-packages/distributed/client.py", line 2004, in wait
+    raise AllExit()
+distributed.client.AllExit
+Task exception was never retrieved
+future: <Task finished name='Task-175' coro=<Client._gather.<locals>.wait() done, defined at /home/tunguz/.local/lib/python3.8/site-packages/distributed/client.py:1999> exception=AllExit()>
+Traceback (most recent call last):
+  File "/home/tunguz/.local/lib/python3.8/site-packages/distributed/client.py", line 2004, in wait
+    raise AllExit()
+distributed.client.AllExit
+Task exception was never retrieved
+future: <Task finished name='Task-176' coro=<Client._gather.<locals>.wait() done, defined at /home/tunguz/.local/lib/python3.8/site-packages/distributed/client.py:1999> exception=AllExit()>
+Traceback (most recent call last):
+  File "/home/tunguz/.local/lib/python3.8/site-packages/distributed/client.py", line 2004, in wait
+    raise AllExit()
+distributed.client.AllExit

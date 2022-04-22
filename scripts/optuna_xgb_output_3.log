@@ -1,0 +1,14 @@
+A new study created in RDB with name: aug_2021_test_3
+Start optimization.
+start listen on 192.168.1.101:41417
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+Trial 0 finished with value: 7.869980755517805 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 1.5457328897859115, 'alpha': 0.025461973715791848, 'colsample_bytree': 0.30650998724980005, 'subsample': 0.8154984022296866, 'learning_rate': 0.02857705313632716, 'max_depth': 13, 'min_child_weight': 11, 'eval_metric': 'rmse'}. Best is trial 0 with value: 7.869980755517805.
+start listen on 192.168.1.101:42193
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+Trial 1 finished with value: 7.825717823648427 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 5.084714111944663, 'alpha': 0.0015253426189611357, 'colsample_bytree': 0.32587060131831846, 'subsample': 0.47262403883849513, 'learning_rate': 0.01159348998468507, 'max_depth': 7, 'min_child_weight': 284, 'eval_metric': 'rmse'}. Best is trial 1 with value: 7.825717823648427.
+start listen on 192.168.1.101:45209
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+Trial 2 finished with value: 7.996590469714546 and parameters: {'objective': 'reg:squarederror', 'tree_method': 'gpu_hist', 'lambda': 0.03495398104988092, 'alpha': 0.024851945464842935, 'colsample_bytree': 0.7794822985040715, 'subsample': 0.7411019556841609, 'learning_rate': 0.0015232753410151438, 'max_depth': 5, 'min_child_weight': 129, 'eval_metric': 'rmse'}. Best is trial 1 with value: 7.825717823648427.
